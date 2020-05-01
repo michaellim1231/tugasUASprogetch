@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="WarnaBackground">#2C3176</color>
+    <color name="navbaratas">#1B1B62</color>
+    <color name="category1">#D4546A</color>
+    <color name="category2">#8B3186</color>
+    <color name="category3">#7D72EC</color>
+    <color name="category4">#2D9EA6</color>
+    <color name="category5">#EEA928</color>
+    <color name="category6">#2C70AD</color>
+
+
+
+</resources>
